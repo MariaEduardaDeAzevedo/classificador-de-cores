@@ -42,8 +42,9 @@ Para rodar esse código na sua máquina é simples! Segue o tutorial:
     ```
     pip3 install -r requirements.txt
     ```
-6. **Rode o script open_cam.py**
+6. **Descompacte o arquivo imagens.zip**  
+7. **Rode o script open_cam.py**
     ```
     python3 open_cam.py
     ```
-7. **Se divirta!**
+8. **Se divirta!**
