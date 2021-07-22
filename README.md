@@ -24,7 +24,7 @@ Para rodar esse código na sua máquina é simples! Segue o tutorial:
     ```
 2. **Vá até o diretório clonado...**
     ```
-    cd classificador-de-cores.git
+    cd classificador-de-cores
     ```
 3. **Crie um ambiente virtual!**
     ```
